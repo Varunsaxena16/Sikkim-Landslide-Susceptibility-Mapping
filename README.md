@@ -142,6 +142,6 @@ and areas with high road density and low vegetation cover.
 
 - **Python:** Scikit-learn, XGBoost, SHAP, Pandas, NumPy, Matplotlib, Seaborn,
   Rasterio, GeoPandas
-- **GIS:** QGIS
+- **GIS:** QGIS, GEE
 - **Data Sources:** SRTM DEM, Sentinel-1, Sentinel-2, GSI Geological Maps,
   SSDMA Landslide Inventory, IMD Rainfall Data, OpenStreetMap, VIIRS NTL

@@ -154,9 +154,7 @@ infrastructure, and landslide-prone terrain.
 | -------------------------- | ------------------------------------------------------------ |
 | `LSM_ensemble.png`         | Final ensemble Landslide Susceptibility Map — QGIS output    |
 | `Per-model_susceptibility_maps.png` | Susceptibility maps of RF, XGB, ResNet18, SECNN, EfficientNetB0 & TabNet models |
-| `Confusion_matrix.png`   | confusion matrices                                  |
 | `feature_imp.png`        | SHAP beeswarm plots                                |
-| `feature_correlation_matrix.png` | Spearman correlation matrix after VIF filtering          |
 | `population_exposure.png`  | Population-by-susceptibility-class chart                      |
 
 ---
